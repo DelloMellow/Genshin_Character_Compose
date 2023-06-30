@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Genshin Character</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_character">Search character here</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_credit">Credit</string>
+    <string name="about_page">Credit Profile</string>
+    <string name="nama">Farrell Liko Tanlimhuijaya</string>
+    <string name="cohort_id">A225DSX1678</string>
+    <string name="email">farrell.412020023@civitas.ukrida.ac.id</string>
+    <string name="character_image">Character Image</string>
+</resources>
